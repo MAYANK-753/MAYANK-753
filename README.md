@@ -1,6 +1,6 @@
 [![MasterHead](https://marketplace.canva.com/EAFSUH0EweU/1/0/1600w/canva-black-elegant-personal-linkedin-banner-eEN5zzEf5VA.jpg)](https://MAYANK-753.io)
 <h1 align="center">Hi 👋, I'm Mayank Saha</h1>
-<h3 align="center">A passionate Full Stack webdeveloper from India</h3>
+<h3 align="center">A passionate webdeveloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-753&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-753" /> </p>
 
